@@ -14,6 +14,8 @@ This **Chat Bot** is an example chat bot which provides **quick and easy access 
 
 
 ## Architecture
+![Chat Bot - PIT Business - Architecture](img/chatbot-architecture.png)<br>
+Techonologies: Qlik Sense, Let's Chat, Microsoft LUIS, C#/.Net, JavaScript, JQuery, HTML, CSS.
 
 ### Quick installation
 
