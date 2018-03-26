@@ -4,7 +4,9 @@ Please visit [PIT Business Website](http://www.pit-business.com) to **discover o
 *PIT Business, the best Qlik Influence Partner in Luxembourg & Belgium.*<br>
 
 # Chat Bot
-
+This **Chat Bot** is an example chat bot which provides **quick and easy access to Qlik content** on a Let's Chat interface. [Source](http://branch.qlik.com/?&_ga=2.27452796.1941664290.1522051397-1056690824.1489050658#!/project/5a2fb8474666f1a641bc8e76).<br>
+<br>
+[![Chat Bot - PIT Business - Screencast](img/chatbot-screenshot-playvideo.png)](https://drive.google.com/file/d/1xQSAVvq76_jqP4ZHJaNu9qyR-xPnhEhi/preview)<br>
 
 ## Which challenges does it address?
 
